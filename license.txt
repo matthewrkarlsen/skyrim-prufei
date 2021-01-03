@@ -1,6 +1,6 @@
 Formally, the mod is released under the BSD 2-Clause License:
 
-Copyright (c) 2014, Matthew R. Karlsen (quixoticynic)
+Copyright (c) 2014-2020, Matthew R. Karlsen
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
